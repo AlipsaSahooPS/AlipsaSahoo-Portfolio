@@ -31,7 +31,7 @@ main.table {
 }
 .table_body {
   width: 95%;
-  max-height: 140%;
+  max-height: 100%;
   background-color: #fffb;
   margin: 0.8rem auto;
   border-radius: 0.6rem;
